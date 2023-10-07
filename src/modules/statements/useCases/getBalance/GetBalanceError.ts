@@ -5,3 +5,4 @@ export class GetBalanceError extends AppError {
     super('User not found', 404);
   }
 }
+ 
